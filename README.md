@@ -1,3 +1,4 @@
+!pip install autogluon.tabular
 # Data-Science-Academy
 # Code snippet 2
 # Importing the Texas schools dataset
